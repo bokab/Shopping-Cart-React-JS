@@ -1,3 +1,9 @@
+# 
+I did this project with the help of a YouTube mentor.
+If you look at my project, you can see that I've written several things as comments to make it a little clearer what's going on.
+
+##
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
